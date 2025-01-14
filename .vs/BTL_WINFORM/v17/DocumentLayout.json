@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\menubanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\menubanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\adminstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\forms\\menubanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\menubanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\confirminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\confirminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\confirminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\confirminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\menuban_nvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\menuban_nvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\forms\\dangkyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\dangkyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\dangkyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\dangkyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\adminaddacountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminaddacountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\confirminvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\confirminvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\adminaddproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminaddproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\adminaddproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminaddproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\admindashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\adminvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminvoucherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\adminaddacountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminaddacountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\addnewcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\addnewcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\addnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\addnewcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\btl_winform\\forms\\monform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\forms\\monform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\models\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\models\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\adminstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|d:\\huynh_lttp_2.0\\btl_lttq_quanlyquancaphe\\btl_winform\\adminaddacountsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FE8E3F-7EAB-4F05-ACC0-68C9BC889B36}|BTL_WINFORM\\BTL_WINFORM.csproj|solutionrelative:btl_winform\\adminaddacountsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmInvoice.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\ConfirmInvoice.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.cs",
+              "RelativeToolTip": "BTL_WINFORM\\ConfirmInvoice.cs",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAPEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:56:54.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminStaffForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminStaffForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminStaffForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminStaffForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminStaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:11:23.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\AdminForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:08:36.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\AdminForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\AdminForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAqwKwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:00:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuBanForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBanForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\MenuBanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:32:36.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuBanForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\MenuBanForm.cs",
+              "ViewState": "AgIAACoDAAAAAAAAAAAYwD0DAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:59:39.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\ConfirmInvoice.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\ConfirmInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:11:00.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuBan_NVForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBan_NVForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\MenuBan_NVForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuBan_NVForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\MenuBan_NVForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:08:43.597Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangKyForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:50:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DangKyForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\DangKyForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\DangKyForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\DangKyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:02:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\fLogin.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\fLogin.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\fLogin.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:00:49.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Program.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Program.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:57:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\appsettings.json",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\appsettings.json",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\appsettings.json",
+              "RelativeToolTip": "BTL_WINFORM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T16:56:13.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminDashboardForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAIAwwGMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:07:43.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminDashboardForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:07:40.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\fLogin.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\fLogin.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\fLogin.cs",
+              "RelativeToolTip": "BTL_WINFORM\\fLogin.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:02:20.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminAddAcountsForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0oAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:28:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfirmInvoice.Designer.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\ConfirmInvoice.Designer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\ConfirmInvoice.Designer.cs",
+              "RelativeToolTip": "BTL_WINFORM\\ConfirmInvoice.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwGYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:27:56.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAddProductsForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddProductsForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminAddProductsForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddProductsForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminAddProductsForm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAEwLIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:47:52.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\Order.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:54:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\MyDbContext.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\MyDbContext.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\MyDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:03:13.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Voucher.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\Voucher.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Voucher.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:03:02.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvoiceForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\InvoiceForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\InvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:14:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\MenuForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MenuForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:13:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:29:16.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminAddProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddProductsForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminAddProductsForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddProductsForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminAddProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:14:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminCategory.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminCategory.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminCategory.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminCategory.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:14:02.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminDashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminDashboardForm.Designer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminDashboardForm.Designer.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminDashboardForm.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAhwFsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:46:54.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminVoucherForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminVoucherForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminVoucherForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminVoucherForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminVoucherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:14:09.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvoiceForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\InvoiceForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:18:09.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddNewCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddNewCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AddNewCustomer.Designer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddNewCustomer.Designer.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AddNewCustomer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:14:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AddCustomer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:13:59.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddNewCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddNewCustomer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AddNewCustomer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddNewCustomer.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AddNewCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:13:58.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MonForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MonForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Forms\\MonForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Forms\\MonForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\Forms\\MonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:13:55.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminAddAcountsForm.cs [Design]",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminAddAcountsForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.cs [Design]",
+              "RelativeToolTip": "BTL_WINFORM\\AdminAddAcountsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:12:30.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddCustomer.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AddCustomer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AddCustomer.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AddCustomer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:27:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:12:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Table.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\Models\\Entities\\Table.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\Models\\Entities\\Table.cs",
+              "RelativeToolTip": "BTL_WINFORM\\Models\\Entities\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:21:20.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminStaffForm.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminStaffForm.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminStaffForm.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminStaffForm.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminStaffForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:15:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminAddAcountsForm.Designer.cs",
+              "DocumentMoniker": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.Designer.cs",
+              "RelativeDocumentMoniker": "BTL_WINFORM\\AdminAddAcountsForm.Designer.cs",
+              "ToolTip": "D:\\huynh_lttp_2.0\\BTL_LTTQ_QuanLyQuanCaPhe\\BTL_WINFORM\\AdminAddAcountsForm.Designer.cs",
+              "RelativeToolTip": "BTL_WINFORM\\AdminAddAcountsForm.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAWwA4BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:48:33.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
